@@ -5,6 +5,7 @@ import android.support.v4.app.Fragment
 import android.view.ViewGroup
 import android.view.LayoutInflater
 import android.view.View
+import kotlinx.android.synthetic.main.activity_main.*
 
 
 class fragmenttwo : Fragment() {
