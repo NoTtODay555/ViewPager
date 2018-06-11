@@ -14,7 +14,8 @@
         android:text="TEST"
         android:gravity="center"
         android:layout_marginTop="10dp"
-        android:layout_marginBottom="10dp"/>
+        android:layout_marginBottom="10dp"
+        />
 
 
     <android.support.v4.view.ViewPager
